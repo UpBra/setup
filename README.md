@@ -3,7 +3,7 @@
 Paste the following into a macOS Terminal and hit return.
 
 ```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/doubleencore/setup/HEAD/setup.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/UpBra/setup/HEAD/setup.sh)"
 ```
 
 ## What Will It Do?
